@@ -1,5 +1,7 @@
 # Swagger-Test-Node
 
+This is a simple node application to learn how to implement swagger docs.
+
 To start it, install Node and run:
 
 ```
